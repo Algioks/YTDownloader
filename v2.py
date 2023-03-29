@@ -5,6 +5,7 @@ import requests
 import argparse
 from pytube import Playlist, YouTube
 import re
+from pytube import YouTube
 
 # Set up command line arguments
 parser = argparse.ArgumentParser(description='Download MP3 files from a YouTube playlist')
