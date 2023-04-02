@@ -1,9 +1,5 @@
 import os
 import re
-import tkinter as tk
-from tkinter import filedialog
-from pytube import YouTube
-import youtube_dl
 
 
 class Downloader:
