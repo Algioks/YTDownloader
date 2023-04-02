@@ -9,3 +9,6 @@ HOW TO USE:
     3. Open Terminal
     4. Start the prefered file: python v2.py <playlist url> <output_dir>
     4.1. Example: python v2.py https://www.youtube.com/playlist songs
+
+
+    I shhould add callback function or event system for status
